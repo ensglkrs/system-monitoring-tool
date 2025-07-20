@@ -1,0 +1,3 @@
+# Bu projede harici bir kütüphane yok ama genişlemeye açık
+# Python 3.8+ önerilir
+
